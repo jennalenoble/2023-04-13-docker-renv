@@ -1,0 +1,15 @@
+]0;/home/rstudiorstudio@d56745221cd9:~$ pwd
+/home/rstudio
+]0;/home/rstudiorstudio@d56745221cd9:~$ ls
+2023-04-13-docker-renv.Rproj
+Dockerfile
+LICENSE
+Makefile
+my_report.html
+my_report.Rmd
+README.md
+renv
+renv.lock
+]0;/home/rstudiorstudio@d56745221cd9:~$ cd /project
+bash: cd: /project: No such file or directory
+]0;/home/rstudiorstudio@d56745221cd9:~$ 
